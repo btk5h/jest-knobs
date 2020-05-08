@@ -27,6 +27,7 @@
     }
   },
   "devDependencies": {
+    "@storybook/addon-knobs": "^5.3.18",
     "husky": "^4.2.5",
     "tsdx": "^0.13.2",
     "tslib": "^1.11.1",
